@@ -14,4 +14,5 @@ Pasos para hacer el mini proyecto
 2. Creación de la carpeta src.
 3. Creación de main.java.
 4. Creación de la carpeta web.
+5. Creación del html.
 >>>>>>> 4bf249fc702c2b413ddeb36cb2abc5c3b8a67f78:READMEOSB.md
