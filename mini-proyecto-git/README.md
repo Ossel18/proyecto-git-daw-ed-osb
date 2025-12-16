@@ -16,4 +16,5 @@ Pasos para hacer el mini proyecto
 4. Creación de la carpeta web.
 5. Creación del html.
 6. Creación del css.
+7. Creación del gitignore.
 >>>>>>> 4bf249fc702c2b413ddeb36cb2abc5c3b8a67f78:READMEOSB.md
